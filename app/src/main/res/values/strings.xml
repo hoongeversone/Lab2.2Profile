@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Lab2.2Profile</string>
+    <string name="profile_picture">profile_picture</string>
+    <string name="Email">Email:</string>
+    <string name="Name">Name:</string>
+    <string name="Update">UPDATE PROFILE</string>
+    <string name="Visit">Visit Taruc</string>
+    <string name="name">Name</string>
+    <string name="email">Email</string>
+    <string name="Save">Save</string>
+
+</resources>
